@@ -1,11 +1,11 @@
 {
-    "name": "cyril_dubos",
-    "short_name": "cyril_dubos",
+    "name": "Cyril Dubos",
+    "short_name": "Cyril Dubos",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Cyril Dubos' personal website.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
